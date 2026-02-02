@@ -26,6 +26,7 @@ This repository contains a job simulation project modeled after a real-world tas
 This project simulates a typical workflow for a JPMorgan Chase analyst. It focuses on processing, analyzing, and visualizing stock price data using Python and Jupyter notebooks. The simulation covers tasks such as data retrieval, calculation of key financial metrics, and interactive charting. The project is suitable for interview preparation and skill assessment in quantitative finance, data science, and related roles.
 ---
 
+
 ## 📊 Insights from the data
 
 This section presents a structured exploratory analysis of historical natural gas prices. The objective is to understand long-term trends, seasonal behavior, and year-over-year changes to support better pricing, forecasting, and storage strategy decisions.
